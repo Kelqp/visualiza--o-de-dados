@@ -25,6 +25,4 @@ Lembre-se de que as variáveis de ambiente são sensíveis e devem ser protegida
 não autorizado. Além disso, é recomendável adicionar o arquivo `.env` ao seu arquivo `.gitignore` para evitar que as informações sensíveis 
 sejam comprometidas em repositórios públicos.
 ```gitignore
-# .gitignore
-.env
 ```
