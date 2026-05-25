@@ -43,7 +43,7 @@ st.markdown("""
 # ---------------------------------------------------------
 # CONEXÃO E CARREGAMENTO DE DADOS (CACHED)
 # ---------------------------------------------------------
-DB_PATH = r"caminho do db"
+DB_PATH = r"Inclua o nome do DB ou o caminho do arquivo"
 
 @st.cache_resource
 def get_db_connection():
