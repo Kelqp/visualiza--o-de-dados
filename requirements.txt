@@ -1,0 +1,7 @@
+streamlit
+pandas
+duckdb
+plotly
+geopandas
+matplotlib
+requests
